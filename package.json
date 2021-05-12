@@ -22,7 +22,7 @@
     "@angular/platform-browser-dynamic": "~8.2.14",
     "@angular/router": "~8.2.14",
     "angular2-flash-messages": "^3.0.1",
-    "chart.js": "^2.9.3",
+    "chart.js": "^2.9.4",
     "jwt-decode": "^2.2.0",
     "ngx-toastr": "^11.3.3",
     "node-snackbar": "^0.1.16",
